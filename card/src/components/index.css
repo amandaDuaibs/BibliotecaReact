@@ -1,0 +1,17 @@
+.card{
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 #0d0e0f9a;
+}
+
+.buttonshowmore{
+    width: 200px;
+    height: 40px;
+    outline: none;
+    border-radius: 10px;
+    font-weight: 600;
+    background-color: aliceblue;
+    cursor: pointer;
+    border: 1px solid orange;
+}
